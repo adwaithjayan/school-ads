@@ -1,1 +1,1 @@
-export const ESP_IP ="192.168.1.3"
+export const ESP_IP =process.env.NEXT_PUBLIC_ESP!
